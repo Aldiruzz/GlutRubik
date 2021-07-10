@@ -1,0 +1,19 @@
+﻿  GlutRubik.cpp
+C:\Users\usuario\Desktop\Proyectos y Apps\Desk\GlutRubik\GlutRubik\GlutRubik.cpp(134,72): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuario\Desktop\Proyectos y Apps\Desk\GlutRubik\GlutRubik\GlutRubik.cpp(134,51): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuario\Desktop\Proyectos y Apps\Desk\GlutRubik\GlutRubik\GlutRubik.cpp(134,30): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuario\Desktop\Proyectos y Apps\Desk\GlutRubik\GlutRubik\GlutRubik.cpp(135,58): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuario\Desktop\Proyectos y Apps\Desk\GlutRubik\GlutRubik\GlutRubik.cpp(135,42): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuario\Desktop\Proyectos y Apps\Desk\GlutRubik\GlutRubik\GlutRubik.cpp(135,26): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuario\Desktop\Proyectos y Apps\Desk\GlutRubik\GlutRubik\GlutRubik.cpp(136,58): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuario\Desktop\Proyectos y Apps\Desk\GlutRubik\GlutRubik\GlutRubik.cpp(136,42): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuario\Desktop\Proyectos y Apps\Desk\GlutRubik\GlutRubik\GlutRubik.cpp(136,26): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuario\Desktop\Proyectos y Apps\Desk\GlutRubik\GlutRubik\GlutRubik.cpp(137,58): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuario\Desktop\Proyectos y Apps\Desk\GlutRubik\GlutRubik\GlutRubik.cpp(137,42): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuario\Desktop\Proyectos y Apps\Desk\GlutRubik\GlutRubik\GlutRubik.cpp(137,26): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuario\Desktop\Proyectos y Apps\Desk\GlutRubik\GlutRubik\GlutRubik.cpp(138,58): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuario\Desktop\Proyectos y Apps\Desk\GlutRubik\GlutRubik\GlutRubik.cpp(138,42): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuario\Desktop\Proyectos y Apps\Desk\GlutRubik\GlutRubik\GlutRubik.cpp(138,26): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuario\Desktop\Proyectos y Apps\Desk\GlutRubik\GlutRubik\GlutRubik.cpp(249,12): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuario\Desktop\Proyectos y Apps\Desk\GlutRubik\GlutRubik\GlutRubik.cpp(250,12): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  GlutRubik.vcxproj -> C:\Users\usuario\Desktop\Proyectos y Apps\Desk\GlutRubik\x64\Debug\GlutRubik.exe
